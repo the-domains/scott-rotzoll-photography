@@ -1,0 +1,28 @@
+name: Scott Rotzoll Photography
+favicon: null
+layout_spectrum: 0.7442429319489747
+typography_spectrum: 0.601375580066815
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.934367548674345
+  lightness: 0.6674522159155458
+  saturation: 0.5734775282908231
+  rhythmicContrast: 0.22295901644974947
+purpose: []
